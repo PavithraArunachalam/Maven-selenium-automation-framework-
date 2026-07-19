@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Learn JavaScript",
+    "completed": true
+  },
+  {
+    "id": 1,
+    "title": "Build a CLI task manager",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Learn Node.js",
+    "completed": false
+  }
+]
